@@ -10,4 +10,4 @@ Východzí program pre OTA na esp 8266
 
 ## Zdroje
 
-- [ESP8266 OTA (Over-the-Air) Updates - AsyncElegantOTA (VS Code + PlatformIO)](https://randomnerdtutorials.com/esp8266-nodemcu-ota-over-the-air-vs-code/)
+- [ESP8266 NodeMCU OTA (Over-the-Air) Updates – AsyncElegantOTA (VS Code + PlatformIO)](https://randomnerdtutorials.com/esp8266-nodemcu-ota-over-the-air-vs-code/)
